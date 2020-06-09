@@ -1,8 +1,8 @@
-# airtable-record-creator
+# Airtable record creator
 This action will create a record when issue is opened
 
-## example usage
-```
+## Example usage
+```yaml
 on: issues
 name: Create Airtable Records
 jobs:
